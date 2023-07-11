@@ -1,4 +1,4 @@
-# deposit_marketing_research
+# Bank marketing deposit subscription research
 ## Task
 Marketing campaigns are an essential part of the business. This is also true for banking services. Meanwhile, the estimation of marketing campaign performance and prediction of performance is a challenging task. Based on historical data related to direct marketing campaigns of a Portuguese banking institution try to predict subscription for deposit
 
